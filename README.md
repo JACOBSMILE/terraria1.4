@@ -17,6 +17,12 @@ This Docker Image is designed to allow for easy configuration and setup of a Ter
   - [Website](https://terraria.org/)
   - [Steam Store Page](https://store.steampowered.com/app/105600/Terraria/)
 
+## Check out all of my Terraria Images!
+
+1.4 Vanilla Terraria: [Github](https://github.com/JACOBSMILE/terraria1.4) | [Dockerhub](https://registry.hub.docker.com/r/jacobsmile/tmodloader1.4)
+
+1.4 tModLoader: [Github](https://github.com/JACOBSMILE/tmodloader1.4) | [Dockerhub]()
+
 # Repository Automation & Daily Automated Builds
 The Github repository has been configured with an automated workflow to check for Terraria updates daily and update the latest image and Dockerfile with the new Terraria version. 
 
