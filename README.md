@@ -21,7 +21,7 @@ This Docker Image is designed to allow for easy configuration and setup of a Ter
 
 1.4 Vanilla Terraria: [Github](https://github.com/JACOBSMILE/terraria1.4) | [Dockerhub](https://hub.docker.com/r/jacobsmile/terraria1.4)
 
-1.4 tModLoader: [Github](https://github.com/JACOBSMILE/tmodloader1.4) | [Dockerhub](https://registry.hub.docker.com/r/jacobsmile/tmodloader1.4)
+1.4 tModLoader: [Github](https://github.com/JACOBSMILE/tmodloader1.4) | [Dockerhub](https://hub.docker.com/r/jacobsmile/tmodloader1.4)
 
 # Repository Automation & Daily Automated Builds
 The Github repository has been configured with an automated workflow to check for Terraria updates daily and update the latest image and Dockerfile with the new Terraria version. 
