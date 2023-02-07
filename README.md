@@ -2,7 +2,7 @@
 ![Auto-Update Badge](https://github.com/JACOBSMILE/terraria1.4/actions/workflows/terraria-check.yml/badge.svg)
 
 [View on Github](https://github.com/JACOBSMILE/terraria1.4) |
-[View on Dockerhub](https://registry.hub.docker.com/r/jacobsmile/terraria1.4)
+[View on Dockerhub](https://hub.docker.com/r/jacobsmile/terraria1.4)
 
 This Docker Image is designed to allow for easy configuration and setup of a Terraria server.
 
@@ -19,9 +19,9 @@ This Docker Image is designed to allow for easy configuration and setup of a Ter
 
 ## Check out all of my Terraria Images!
 
-1.4 Vanilla Terraria: [Github](https://github.com/JACOBSMILE/terraria1.4) | [Dockerhub](https://registry.hub.docker.com/r/jacobsmile/tmodloader1.4)
+1.4 Vanilla Terraria: [Github](https://github.com/JACOBSMILE/terraria1.4) | [Dockerhub](https://hub.docker.com/r/jacobsmile/terraria1.4)
 
-1.4 tModLoader: [Github](https://github.com/JACOBSMILE/tmodloader1.4) | [Dockerhub]()
+1.4 tModLoader: [Github](https://github.com/JACOBSMILE/tmodloader1.4) | [Dockerhub](https://registry.hub.docker.com/r/jacobsmile/tmodloader1.4)
 
 # Repository Automation & Daily Automated Builds
 The Github repository has been configured with an automated workflow to check for Terraria updates daily and update the latest image and Dockerfile with the new Terraria version. 
