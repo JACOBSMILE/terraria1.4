@@ -8,10 +8,6 @@ services:
     expose:
       - "7777"
     environment:
-      # Download the Calamity mod and CalamityMusic mod.
-      - "TERRARIA_AUTODOWNLOAD=2824688072,2824688266"
-      # Enable the Calamity mod and CalamityMusic mod.
-      - "TERRARIA_LOADMODS=2824688072,2824688266"
       # Shutdown Message and Autosave Interval (In Minutes)
       - "TERRARIA_SHUTDOWN_MESSAGE=Goodbye!"
       - "TERRARIA_AUTOSAVE_INTERVAL=15"
@@ -26,5 +22,5 @@ services:
       - "TERRARIA_USECONFIGFILE=No"
 
     volumes:
-      - "/path/to/worlds/file:/root/.local/share/Terraria/TERRARIALoader/Worlds"
+      - "/path/to/worlds/file:/root/.local/share/Terraria/Worlds"
       - "/path/to/config/config.txt:/root/terraria-server/serverconfig.txt"
