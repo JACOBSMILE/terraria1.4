@@ -10,7 +10,7 @@ ENV TERRARIA_SHUTDOWN_MESSAGE="Server is shutting down NOW!"
 ENV TERRARIA_AUTOSAVE_INTERVAL="10"
 
 # The following environment variables will configure common settings for the Terraria server.
-ENV TERRARIA_MOTD="A Terraira server powered by Docker!"
+ENV TERRARIA_MOTD="A Terraria server powered by Docker! (https://github.com/JACOBSMILE/terraria1.4). You can change this message with the TERRARIA_MOTD environment variable."
 ENV TERRARIA_PASS="docker"
 ENV TERRARIA_MAXPLAYERS="8"
 ENV TERRARIA_WORLDNAME="Docker"
